@@ -3,3 +3,11 @@ body {
     color:lab(89.47% -5.48 -11.82)
     background:darkblue ;
 } 
+
+.chamada{
+    background:rgb(249, 193, 238)
+    padding-bottom: 80px;
+    padding-top : 80px;
+    display: flex;
+    justify-content: center;
+}

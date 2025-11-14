@@ -1,12 +1,12 @@
 
 body {
-    color:lab(89.22% -7.81 -16.47)
+    color:lab(89.22% -7.81 -16.47);
     background-color: blue;
-    font-family:"Faculty glyphie"; serif;
+    font-family:"Faculty Glyphie"; serif;
 } 
 
 .chamada{
-    background:rgb(249, 193, 238)
+    background:rgb(249, 193, 238);
     padding-bottom: 80px;
    padding-top : 80px;
     display: flex;
